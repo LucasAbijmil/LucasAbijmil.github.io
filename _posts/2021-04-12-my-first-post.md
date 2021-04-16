@@ -9,5 +9,4 @@ Welcome to my first posts !
 ## Here are things I will be writing about 
 1. This 
 2. That 
-3. The other 
-4. Ouais je suis super chaud ! 
+3. The other

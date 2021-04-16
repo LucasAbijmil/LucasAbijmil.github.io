@@ -29,8 +29,16 @@ url: "https://lucasabijmil.github.io" # the base hostname & protocol for your si
 twitter_username: lucas_abijmil
 github_username: LucasAbijmil
 
+# Fields minima uses, but are not defaulted with the Jekyll new command.
+# Author is the default for posts, the Atom feed & is used in the footer.
+# If no author is provided, Jekyll use the title as a default value.
+author: Lucas Abijmil
+
+# Add custom fields here (not provided by default Jekyll with the minima theme) 👇
+copyright: "Lucas Abijmil"
+
 # Build settings
-# The theme is commented because we use our proper theme (based on minima !)
+# The theme is commented because we use our proper theme (based on minima !). In other word we just put the minima files into this project to override the minima theme gem
 # So we now using a reguler theme insted of a Gem-based theme
 # theme: minima 
 

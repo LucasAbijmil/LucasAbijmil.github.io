@@ -6,6 +6,7 @@ source "https://rubygems.org"
 # To view the changes please save your work (⌘S), the reload will be automatic
 #     bundle exec jekyll serve --livereload
 #
+# Notice that if you have modified the _config.yml file, you have to relaunch the commands above.
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" below
 # gem "jekyll", "~> 4.2.0"
