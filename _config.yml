@@ -23,7 +23,7 @@
 title: Lucas Abijmil
 email: lucas.abijmil@gmail.com
 description: >- # TO DO – this means to ignore newlines until "baseurl:"
-  Welcome to my blog site about Swift & SwiftUI ❤️. I should write a proper description here.
+  Welcome to my blog site about Swift and SwiftUI ❤️. I should write a proper description here.
 baseurl: "" # Not sure about the curent baseurl 🤔 the subpath of your site, e.g. /blog 
 url: "https://lucasabijmil.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lucas_abijmil
